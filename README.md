@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Susheel Sham Talreja
+# 🚀 Hi, I'm Raza Nizami 
 
 ### Full Stack Developer | PHP & MySQL Specialist 
 
